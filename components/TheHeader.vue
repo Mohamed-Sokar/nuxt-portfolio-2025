@@ -9,7 +9,7 @@ import ColorModeSelector from "./ColorModeSelector.vue";
       <div>
         <NuxtLink
           to="/"
-          class="hidden md:block text-xl font-semibold hover:bg-gray-200 rounded border border-dashed link p-3"
+          class="hidden md:block text-xl font-semibold hover:bg-gray-200 dark:hover:bg-gray-800 rounded border border-dashed link p-3"
           >Mohammad Sokar</NuxtLink
         >
       </div>
